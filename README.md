@@ -1,6 +1,5 @@
 # The Polecat Lounge
-## resources for the polecat lounge | Find him on mixer @
-[ArrivedPolecat](https://mixer.com/ArrivedPolecat)
+#### resources for the polecat lounge | Find him on mixer [@ArrivedPolecat](https://mixer.com/ArrivedPolecat)
 
 <img src="donate.png">
 <img src="gamertag.png">
