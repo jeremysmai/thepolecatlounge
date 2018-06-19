@@ -1,5 +1,5 @@
 # The Polecat Lounge
-#### resources for the polecat lounge | Find him on mixer [@ArrivedPolecat](https://mixer.com/ArrivedPolecat)
+### resources for the polecat lounge | Find him on mixer [@ArrivedPolecat](https://mixer.com/ArrivedPolecat)
 
 <img src="welcome.png">
 <img src="gamertag.png">
@@ -8,6 +8,6 @@
 <img src="donate.png">
 
 
-#### Feel Free To Borrow below images
+#### Feel Free To Borrow below images :
 <img src="GawkBox.png">
 <img src="loots.png">
