@@ -5,7 +5,7 @@
 <img src="welcome-overlay50.png">
 <img src="gamertag.png">
 <img src="gamertag75.png">
-<img src="gamertag_a.png"
+<img src="gamertag_a.png">
 <img src="schedule_button_left.png">
 <img src="rules_center.png">
 <img src="donate.png">
