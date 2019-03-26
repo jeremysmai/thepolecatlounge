@@ -1,5 +1,5 @@
 # The Polecat Lounge
-#### ~ Made for [ArrivedPolecat | Find him on mixer](https://mixer.com/ArrivedPolecat)
+#### ~ Made strictly for [ArrivedPolecat | Find him on mixer](https://mixer.com/ArrivedPolecat)
 
 <img src="welcome.png">
 <img src="welcome-overlay50.png">
@@ -9,7 +9,8 @@
 <img src="schedule_button_left.png">
 <img src="rules_center.png">
 <img src="donate.png">
-
+<img src="monday-funday-stroke.gif">
+<img src="mondayfunday.gif">
 
 #### Feel Free To Borrow below images :
 <img src="GawkBox.png">
