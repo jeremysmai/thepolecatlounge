@@ -17,5 +17,6 @@
 <img src="GawkBox.png">
 <img src="loots.png">
 
-#### Secret Polecat Only stream
+#### Polecat Embedded Site
+
 [Secret Stream Link](https://jeremysmai.github.io/thepolecatlounge/thelounge.html)
