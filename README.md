@@ -8,7 +8,7 @@
 <img src="gamertag.png">
 <img src="gamertag75.png">
 <img src="gamertag_a.png">
-<img src="playedgames.png"
+<img src="playedgamesv1.png"
 <img src="schedule_button_left.png">
 <img src="rules_center.png">
 <img src="ruleslist.png">
