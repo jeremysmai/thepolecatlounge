@@ -8,8 +8,10 @@
 <img src="gamertag.png">
 <img src="gamertag75.png">
 <img src="gamertag_a.png">
+<img src="playedgames.png"
 <img src="schedule_button_left.png">
 <img src="rules_center.png">
+<img src="ruleslist.png">
 <img src="donate.png">
 <img src="monday-funday-stroke.gif">
 <img src="mondayfunday.gif">
