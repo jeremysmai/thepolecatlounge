@@ -13,6 +13,7 @@
 <img src="schedulelist.png">
 <img src="rules_center.png">
 <img src="ruleslist.png">
+<img src="paa-time.png">
 <img src="donate.png">
 <img src="monday-funday-stroke.gif">
 <img src="mondayfunday.gif">
