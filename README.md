@@ -10,6 +10,7 @@
 <img src="gamertag_a.png">
 <img src="playedgamesv1.png">
 <img src="schedule_button_left.png">
+<img src="schedulelist.png">
 <img src="rules_center.png">
 <img src="ruleslist.png">
 <img src="donate.png">
