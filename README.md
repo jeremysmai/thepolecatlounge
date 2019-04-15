@@ -8,6 +8,7 @@
 <img src="gamertag.png">
 <img src="gamertag75.png">
 <img src="gamertag_a.png">
+<img src="discordmessage.png">
 <img src="playedgamesv1.png">
 <img src="schedule_button_left.png">
 <img src="schedulelist.png">
@@ -15,6 +16,7 @@
 <img src="ruleslist.png">
 <img src="paa-time.png">
 <img src="donate.png">
+<img src="lootingsince.png">
 <img src="monday-funday-stroke.gif">
 <img src="mondayfunday.gif">
 
