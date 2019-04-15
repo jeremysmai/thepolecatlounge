@@ -4,7 +4,7 @@
 
 <img src="welcome.png">
 <img src="welcome-overlay50.png">
-<img src="intro.png">
+<img src="intro0.png">
 <img src="gamertag.png">
 <img src="gamertag75.png">
 <img src="gamertag_a.png">
