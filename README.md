@@ -8,7 +8,7 @@
 <img src="gamertag.png">
 <img src="gamertag75.png">
 <img src="gamertag_a.png">
-<img src="discordmessage.png">
+<img src="discordap.png">
 <img src="playedgamesv1.png">
 <img src="schedule_button_left.png">
 <img src="schedulelist.png">
